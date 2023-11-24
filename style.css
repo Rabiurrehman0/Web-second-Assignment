@@ -1,0 +1,51 @@
+section {
+    display: flex;
+}
+
+fieldset {
+    width: 90%;
+    margin-left: 2%; 
+    
+}
+#space{
+    margin-top: 2%;
+}
+#left {
+    width: 60%;
+    border: 1px solid black;
+    padding: 0;
+}
+
+#right {
+    width: 40%;
+    border: 1px solid black;
+    padding: 0;
+}
+
+#left h1,
+#right h1 {
+    text-align: center;
+    background-color: rgb(206, 204, 204);
+    padding: 10px 0;
+    margin: 0;
+}
+
+table {
+    margin: 10px 0;
+    border: 1px solid black;
+    border-spacing: 1; 
+
+}
+
+th, td {
+    border: 1px solid black;
+    
+
+}
+
+h2 {
+    margin: 0%;
+}
+button{
+    margin-left: 2%;
+}
